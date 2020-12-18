@@ -19,7 +19,7 @@ This is the repository with all the resources, assignments and solutions for the
 **Android Facilitator**: [Siddharth Borderwala](https://github.com/siddharthborderwala) - sb943@snu.edu.in
 
 **Android Mentors:-**
-* [A. B. Santhosh](https://github.com/ABSanthosh) : 
+* [A. B. Santhosh](https://github.com/ABSanthosh) : sb875@snu.edu.in
 * [Megh Rathod]() : mr867@snu.edu.in
 
 **DSC Lead:** [Prakhar Rathi](https://github.com/prakharrathi25)
