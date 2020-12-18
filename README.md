@@ -9,7 +9,7 @@ This is the repository with all the resources, assignments and solutions for the
 ## Directory Structure
 
 ### Assignments
-1. [Week 1]()
+1. [Week 1](https://github.com/dscsnu/Android-Study-Jams/tree/main/Assignments/week-1)
 
 ## Resources
 We have compiled a bunch of important videos and links for you. These will be helpful if you want to start or if you're stuck somewhere. 
