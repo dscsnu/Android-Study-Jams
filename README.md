@@ -1,4 +1,25 @@
-# Android-Study-Jams
+# Android Study Jam 
 
-* Resource links
-* Solutions to practice assignments
+This is the repository with all the resources, assignments and solutions for the course material in the Android Study Jams program conducted by Developer Student Clubs, Shiv Nadar University. 
+
+![Android Study Jams](https://i.imgur.com/4aBFv05.jpg)
+
+## What are Study Jams?
+
+## Directory Structure
+
+### Assignments
+1. [Week 1]()
+
+## Resources
+
+
+## Contact 
+
+**Android Facilitator**: [Siddharth Borderwala](https://github.com/siddharthborderwala) - sb943@snu.edu.in
+
+**Android Mentors:-**
+* [A. B. Santhosh](https://github.com/ABSanthosh) : 
+* [Megh Rathod]() : mr867@snu.edu.in
+
+**DSC Lead:** [Prakhar Rathi](https://github.com/prakharrathi25)
