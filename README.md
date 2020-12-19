@@ -6,6 +6,8 @@ This is the repository with all the resources, assignments and solutions for the
 
 ## What are Study Jams?
 
+Android Study Jams are community-organized study groups for people to learn how to build Android apps using an online training course developed by Google Developers.
+
 ## Directory Structure
 
 ### Assignments
@@ -16,17 +18,18 @@ We have compiled a bunch of important videos and links for you. These will be he
 
 ### Get Started 
 
-This is where you can begin your Android Dev journey with us. To celebrate your start, we will be sharing a badge with you which you can add to your [Developer Profile](https://google.dev/u/me). Link to the course and badge: https://g.co/android/studyjams. You can begin by registering here and starting the quests. 
+This is where you can begin your Android Dev journey with us. To celebrate your start, we will be sharing a badge with you which you can add to your [Developer Profile](https://google.dev/u/me). Link to the course and badge is [here](https://g.co/android/studyjams). You can begin by registering here and starting the quests. 
 
 The course platform can be accessed [here](https://developer.android.com/courses/study-jams). You can practice Kotlin programming using the [Kotlin Playground](https://play.kotlinlang.org/)
 
 
 ### Session Recordings :video_camera: 
 
-You can check out our [YouTube Channel](https://www.youtube.com/channel/UCyEKNM3kM3Llm9v38BCs3Mg?view_as=subscriber) for all the videos  that we have created. These will be useful in your journey of mastering Android. 
+You can check out our [YouTube Channel](https://www.youtube.com/channel/UCyEKNM3kM3Llm9v38BCs3Mg) for all the videos  that we have created. These will be useful in your journey of mastering Android. 
 
-1. [Android Session 1](https://www.youtube.com/watch?v=GcrgPFNsf7E&list=PLGzDVfPNDfErb2AuwD_aSWMR92TwXJZ9f&index=2)
-2. [Android Session 2](https://www.youtube.com/watch?v=xxzbCzvIMWo&list=PLGzDVfPNDfErb2AuwD_aSWMR92TwXJZ9f&index=3) 
+1. [Android Session 1](https://www.youtube.com/watch?v=GcrgPFNsf7E)
+2. [Android Session 2](https://www.youtube.com/watch?v=xxzbCzvIMWo) 
+3. [Android Session 3](https://www.youtube.com/watch?v=YdX4-3aXmzM)
 
 ### Get Android Studio 
 
@@ -42,14 +45,18 @@ The setups for different devices.
 * [MacOS](https://www.youtube.com/watch?v=JPxldjelGuc&ab_channel=ComputerScienceVideos) 
 * [Linux](https://www.youtube.com/watch?v=cZozR3gSsnI&t=3s&ab_channel=LinuxH2O)
 
+### Links to Additional Resources
+
+* [Kotlin Language](https://gist.github.com/siddharthborderwala/63abc403a6e57f30d57f0990d1f62e0d)
+* [Android Development](https://gist.github.com/siddharthborderwala/63abc403a6e57f30d57f0990d1f62e0d)
 
 
 ## Contact 
 
-**Android Facilitator**: [Siddharth Borderwala](https://github.com/siddharthborderwala) - sb943@snu.edu.in
+**Android Facilitator**: [Siddharth Borderwala](https://github.com/siddharthborderwala) - [contact via email here](mailto:sb943@snu.edu.in)
 
 **Android Mentors:-**
-* [A. B. Santhosh](https://github.com/ABSanthosh) : sb875@snu.edu.in
-* [Megh Rathod]() : mr867@snu.edu.in
+* [A. B. Santhosh](https://github.com/ABSanthosh) - [contact via email here](mailto:sb875@snu.edu.in)
+* [Megh Rathod]() - [contact via email here](mailto:mr867@snu.edu.in)
 
 **DSC Lead:** [Prakhar Rathi](https://github.com/prakharrathi25)
